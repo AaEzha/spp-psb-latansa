@@ -7,6 +7,7 @@ Percobaan mengenai pembayaran SPP pada PSB di La Tansa
 - Masih banyak kekurangan lainnya yang mungkin penulis tidak sadari, dikarenakan ini hanya dikerjakan dalam waktu 3-4 jam :(
 
 # Preview
+cek : http://siswa.rhj.web.id/latansa
 
 # Terima kasih
 Terima kasih sebesar-besarnya kepada seluruh asatidz dan ustadzat yang pernah mengajarkan penulis ketika menuntut ilmu di Pondok Pesantren La Tansa kurang lebih selama enam tahun.
